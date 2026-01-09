@@ -75,3 +75,4 @@ It also implements the **stretch goals**:
   - Supports:
     - An array of schemas (`[ ... ]`)
     - A single schema objec
+    - There is an included schema.json file on the repo root folder that you can import to test this functionality.
